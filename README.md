@@ -3,4 +3,4 @@ Throwing the COBE-DIRBE near to far infrared all-sky maps at `scikit-learn`'s PC
 
 Give it a try on Binder!
 
-https://mybinder.org/v2/gh/aaroncnb/GetTheZodi/master?filepath=BlindZodiSeparation_ExampleDIRBE.ipynb
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aaroncnb/GetTheZodi/master?filepath=BlindZodiSeparation_ExampleDIRBE.ipynb)
