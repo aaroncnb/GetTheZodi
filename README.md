@@ -10,6 +10,13 @@ This repository is a quick in dirty experiment, born purely out of curiosity (re
 
 In a nutshell: I threw the COBE-DIRBE near to far infrared all-sky maps at principal component analysis (PCA), indpeendent component analysis (ICA), and non-negative matrix factorization (NMF) algorithms. These examples are based on `scikit-learn`'s implementations of those algorithms, but it might be a fun excercise to write them yourself in `numpy` (actually, pretty trivial at least when it comes to PCA). 
 
+The reason I use the COBE-DIRBE data hear, quite honestly, is because it's low-resolution and thus quite easy to make a demonstration out of. All of the wavelengths, from the Milky Way-dust dominated, to the stellar light dominated emission are covered in a consistent and conveniently available data format.
+
+We could also experiment by combining other space satellite data with DIRBE, or look exclusively at the higher resolution data from Planck, AKARI and IRAS.
+
+
+
+
 Give it a try on Binder!
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aaroncnb/GetTheZodi/master?filepath=BlindZodiSeparation_ExampleDIRBE.ipynb)
